@@ -1,12 +1,10 @@
 html {
     background-color: rgb(58, 66, 66);
-    f;
 }
 .article {
     text-align: center;
 }
 .img {
-.center-img 
     display: block;
     margin: auto 450px;
     max-width: 240px; 
@@ -24,5 +22,5 @@ fieldset {
     box-sizing: border-box;
     border-radius: 8px;   
     border: 1px solid #ccc; 
-    background: #252f66;    
+    background: #46508a;    
 }
