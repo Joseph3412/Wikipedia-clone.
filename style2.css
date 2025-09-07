@@ -1,7 +1,7 @@
 html {
     background-color: rgb(58, 66, 66); 
 }
-fieldset {
+.first {
     width: 80%;         
     margin: 20px auto;    
     box-sizing: border-box;
@@ -9,9 +9,10 @@ fieldset {
     border: 1px solid #ccc; 
     background: #46508a;    
 }
-.about-fieldset {
-    border-left: 8px solid #fff;          
-    border-top-left-radius: 24px;        
-    border-bottom-left-radius: 24px;        
-    padding-left: 24px;   
+.about {
+    border-left: 6px solid #fff;     
+    border-radius: 12px;              
+    padding-left: 16px; 
+    text-align: center;
+    background-color: #46508a;
 }
